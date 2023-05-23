@@ -11,10 +11,10 @@ Posteriormente, se desarrollará un panel de control en Power BI para visualizar
 
 ## Descripción de los archivos
 
-- AccidentesAviones.cv Base de datos en la que se baso el analisis
-- EDA.ipynb Jupiter Notebook donde se realizo el Analisis Exploratorio de los datos
-- AccidenteAviones_df_mod.cv Base de datos modificada en el EDA, para un mejor analisis
-- Dashboard..pbix Panel de control en donde se presentan los KPI en Power BI
+- `AccidentesAviones.cv` Base de datos en la que se baso el analisis
+- `EDA.ipynb` Jupiter Notebook donde se realizo el Analisis Exploratorio de los datos
+- `AccidenteAviones_df_mod.cv` Base de datos modificada en el EDA, para un mejor analisis
+- `Dashboard..pbix` Panel de control en donde se presentan los KPI en Power BI
 
 ## Análisis y la funcionalidad de los KPIs sugeridos.
 
