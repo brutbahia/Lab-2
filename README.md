@@ -49,9 +49,7 @@ Una posible conclusión que se puede extraer de estos resultados es que, aunque 
 
 Por lo que con la ayuda de un grafico de dispersion se enfrento los vuelos con Menos de 20 Pasajeros y Cantidad de Tipos de Avión que NO Superan el Umbral por Año, y se vio que la tendencia es que mientras menos cantidad de tipos de avion que no superan superan el umbral, mayor cantidad de vuelos con menos de 20 pasajero hay. Por lo que se descartar la cantidad de pasajeros como un factor de la anomalia de la relación inversa entre la cantidad de tipos de avión que no superan el umbral y la cantidad de fallecidos.
 
-Esto resalta la importancia de no solo enfocarse en la tasa de supervivencia como único indicador de seguridad, sino también considerar otros aspectos relacionados con la prevención de accidentes y la mitigación de su impacto. Mejorar las condiciones de seguridad y supervivencia en los aviones sigue siendo crucial para reducir la pérdida de vidas en la industria aérea.
-
-Y se recomienda plantear nuevas hipotesis para lograr llegar a la razon de esta anomalia. 
+Esto resalta la importancia de no solo enfocarse en la tasa de supervivencia como único indicador de seguridad, sino también considerar otros aspectos relacionados con la prevención de accidentes y la mitigación de su impacto. Mejorar las condiciones de seguridad y supervivencia en los aviones sigue siendo crucial para reducir la pérdida de vidas en la industria aérea. Se recomienda plantear nuevas hipotesis para lograr llegar a la razon de esta anomalia. 
 
 
 .
