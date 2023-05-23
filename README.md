@@ -20,9 +20,9 @@ Posteriormente, se desarrollará un panel de control en Power BI para visualizar
 
 - KPI: Reducir en 5% la Tasa de Mortalidad a Nivel Anual
 
-La métrica utilizada para este KPI es la Tasa de Mortalidad Anual. Durante el análisis exploratorio de datos, se observó que no existe una tendencia clara en la reducción de la tasa de mortalidad anual. Aunque se registró una ligera disminución en la tasa de mortalidad en comparación con la cantidad de fallecidos anuales, no se encontró una correlación directa entre ambas variables. Esto sugiere que otros factores pueden influir en la cantidad de fallecidos anuales y que se requiere un análisis más detallado para comprender completamente sus determinantes.
+La métrica utilizada para este KPI es la Tasa de Mortalidad Anual. Durante el análisis exploratorio de datos, se observó que no existe una tendencia clara en la reducción de la tasa de mortalidad anual. Aunque se registró una ligera disminución en la tasa de mortalidad en comparación con la cantidad de fallecidos anuales, la correlación directa entre ambas variables es inversa. Esto sugiere que otros factores pueden influir en la cantidad de fallecidos anuales y que se requiere un análisis más detallado para comprender completamente sus determinantes.
 
-Es importante destacar que aunque no se encontró una correlación directa entre la tasa de mortalidad anual y la cantidad de fallecidos, eso no descarta la importancia de reducir la tasa de mortalidad. Aunque no haya una relación clara en el análisis exploratorio, aún se puede establecer como objetivo la reducción de la tasa de mortalidad en un 5% anualmente, ya que cualquier disminución en las muertes es beneficiosa.
+Es importante destacar que aunque la correlación directa entre la tasa de mortalidad anual y la cantidad de fallecidos es inversa, eso no descarta la importancia de reducir la tasa de mortalidad. Aunquela relación en el análisis exploratorio es contradictorio, aún se puede establecer como objetivo la reducción de la tasa de mortalidad en un 5% anualmente, ya que cualquier disminución en las muertes es beneficiosa, y esta anomalia puede deberse a otros factores, como la cantidad de accidentes registrados. 
 
 - KPI: Reducción del 10% de los Accidentes a Nivel Anual
 
